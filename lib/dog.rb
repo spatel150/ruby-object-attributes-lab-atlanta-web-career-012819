@@ -3,5 +3,7 @@ class Dog
     @name
   end
   
+  def name 
+    @name = new
 
 end 
